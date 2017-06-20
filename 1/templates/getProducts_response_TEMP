@@ -1,0 +1,21 @@
+{
+        "siteName": "string255",
+        "siteCurrency": "string3",
+        "siteLanguage": "string2",
+        "productList": {
+            "product[]": {
+                "productId": "string14",
+                "productName": "string255",
+                "productDesc": "string1000",
+                "productPrice": "integer+"
+                }
+            },
+        "responseHeader": {
+            "status": "string255(OK,FAIL)",
+            "error": {
+                "code": "integer3",
+                "message": "string255"
+                },
+            "sessionId": "string255"
+            }
+        }
